@@ -1,7 +1,5 @@
 # Netflix Clone
 
-# Netflix Clone Project
-
 ![Netflix Logo](https://shorturl.at/itST9)
 
 Welcome to the Netflix Clone Project! This project is a web application that replicates the popular streaming service, Netflix, allowing users to explore a vast library of movies and TV shows, watch trailers, and enjoy a seamless viewing experience.
