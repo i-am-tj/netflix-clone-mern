@@ -12,7 +12,7 @@
     }
 
     .container {
-        padding: 0px 50px;
+        padding: 0px 60px;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -21,7 +21,7 @@
             display: flex;
             align-items: center;
             img{
-                height: 25px;
+                height: 45px;
                 margin-right: 40px;
             }
             span {
@@ -34,7 +34,7 @@
             display: flex;
             align-items: center;
             .icon {
-                margin: 0px 15px;
+                margin: 0px 25px;
                 cursor: pointer;
             }
             img{

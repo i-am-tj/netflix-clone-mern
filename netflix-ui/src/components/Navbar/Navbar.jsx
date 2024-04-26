@@ -16,7 +16,7 @@ const Navbar = () => {
     <div className={isScrolled ? "navbar scrolled" : "navbar"}>
         <div className="container">
             <div className="left">
-                <img src="https://shorturl.at/itST9" alt="Netflix Logo" />
+                <img src="https://seeklogo.com/images/N/netflix-n-logo-0F1ED3EBEB-seeklogo.com.png" alt="Netflix Logo" />
                 <span>Home</span>
                 <span>TV Shows</span>
                 <span>Movies</span>
